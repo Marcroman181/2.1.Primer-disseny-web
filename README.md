@@ -1,4 +1,7 @@
 # 2.1.Primer-disseny-web
+
+Autor: Marc Román
+
 Repositori per a la tasca 2.1. de llenguatge de marques
 
 Link del disseny web en el rawgit:
