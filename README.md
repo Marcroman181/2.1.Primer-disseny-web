@@ -1,6 +1,6 @@
 # 2.1.Primer-disseny-web
 
-Autor: Marc Román
+**Autor: Marc Román**
 
 Repositori per a la tasca 2.1. de llenguatge de marques
 
